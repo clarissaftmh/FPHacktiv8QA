@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>product name</name>
+   <tag></tag>
+   <elementGuidId>36184a94-b5da-4f74-857e-9b8cf57c9dcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;output&quot;]/div/div[2]/a[2]/p</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'HP PAVILION 15T TOUCH LAPTOP' or . = 'HP PAVILION 15T TOUCH LAPTOP')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.roboto-regular.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fa48b00c-aaf0-48d8-bb5e-560348b296cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-regular ng-binding</value>
+      <webElementGuid>d8275271-38be-4544-a9c2-56fb7383d0e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HP PAVILION 15T TOUCH LAPTOP</value>
+      <webElementGuid>df2b936c-92c7-47bd-9112-fa2e7bcab7ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;output&quot;]/div/div[2]/a[2]/p</value>
+      <webElementGuid>038efa41-e3dd-4d78-804b-9585b54094f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='output']/div/div[2]/a[2]/p</value>
+      <webElementGuid>cdcbcf50-1a7a-4d18-8087-b0a27073bee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/following::p[1]</value>
+      <webElementGuid>a1bb235b-e402-41da-b85b-8d630defd268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('TOP RESULTS FOR: ', '&quot;', 'hp', '&quot;', '')])[1]/following::p[1]</value>
+      <webElementGuid>c092cb09-0ddf-4139-ad95-8e136eeef403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$519.99'])[1]/preceding::p[1]</value>
+      <webElementGuid>cc5a676b-8f5d-4434-b464-7f91d1c9fb81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$13.99'])[1]/preceding::p[2]</value>
+      <webElementGuid>c9f2f6b0-4f32-4ca9-b292-b710bc5167c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HP PAVILION 15T TOUCH LAPTOP']/parent::*</value>
+      <webElementGuid>35c71eb1-afd6-4b66-a5d0-c676f9b702be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/p</value>
+      <webElementGuid>dfac8cbf-84b5-404c-8ce0-90e7ee9ac697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'HP PAVILION 15T TOUCH LAPTOP' or . = 'HP PAVILION 15T TOUCH LAPTOP')]</value>
+      <webElementGuid>6f12fad9-81d8-4a54-9609-227ba108aa08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
